@@ -8,13 +8,13 @@
 ![image](https://user-images.githubusercontent.com/35905280/96147931-b8588800-0f42-11eb-864e-530cd33b3651.png)
 
 
-
+# Dependancy
+any version of numpy & pandas might be ok.
 
 
 # --
 LINE implementation 
 Tang, Jian, et al. "Line: Large-scale information network embedding." Proceedings of the 24th international conference on world wide web. 2015.
 
-without ML framework e.g. Tensorflow or Pytorch.
 
 The project includes LINE class script and embedding plot scripts for Football team / Karate club network . 
