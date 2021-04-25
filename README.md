@@ -9,7 +9,9 @@
 
 
 # Dependancy
-any version of numpy & pandas might be ok.
+numpy
+
+pandas
 
 
 # --
