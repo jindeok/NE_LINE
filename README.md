@@ -17,7 +17,7 @@ pandas
 # --
 LINE simple example implementation 
 
-simply run with ''LINE.py''
+simply run with ``LINE.py``
 
 Tang, Jian, et al. "Line: Large-scale information network embedding." Proceedings of the 24th international conference on world wide web. 2015.
 
